@@ -1,0 +1,12 @@
+plugins {
+    id 'java-library'
+    id 'pmd'
+}
+
+repositories {
+    mavenCentral()
+}
+
+pmd {
+  toolVersion = '6.36.0'
+}
