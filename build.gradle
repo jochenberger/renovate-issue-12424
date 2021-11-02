@@ -8,5 +8,5 @@ repositories {
 }
 
 pmd {
-  toolVersion = '6.36.0'
+  toolVersion = '6.36.0' // this could be updated to '6.40.0'
 }
